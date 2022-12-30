@@ -60,7 +60,7 @@ const pages = [
     {
         "title": "Aninha Hot - Florzinha",
         "qnt_images": 15,
-        "folder": "Florzinha",
+        "folder": "florzinha",
         "info": [
             "Semi", "Semi", "Semi",
             "Semi", "Nude", "Semi",
